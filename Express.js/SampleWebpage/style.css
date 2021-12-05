@@ -1,0 +1,31 @@
+.title h1{
+    text-align: center;
+    color: darkblue;
+    font-size: 2rem;
+}
+
+.container h2{
+    text-align: center;
+    color: red;
+    font-size: 1.8rem;
+}
+
+.item1{
+    background-color: rgb(180, 245, 180);
+    font-size: 1.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 4px solid red;
+    width: 70vw;
+    margin: auto;
+    padding: 1rem;
+}
+
+.footer{
+    margin: 2rem auto;
+    padding: 1rem;
+    border: 3px solid black;
+    width: 75vw;
+    font-size: 1rem;
+    color: blue;
+    text-align:justify;
+}
