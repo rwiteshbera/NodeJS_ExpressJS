@@ -2,12 +2,11 @@
   "name": "tutorial-4",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Rwitesh Bera",
   "license": "ISC",
   "dependencies": {
     "yargs": "^17.3.0"
