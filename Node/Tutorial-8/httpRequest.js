@@ -1,6 +1,6 @@
 const https = require("https");
 const url =
-  "https://api.openweathermap.org/data/2.5/weather?q=London&appid=24a1ff353b592cebd11cbeea85093345";
+  "";
 
 const request = https.request(url, (response) => {
   let data = "";
